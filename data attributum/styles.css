@@ -1,0 +1,14 @@
+.cella {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    display: inline-block;
+    margin: 5px;
+    cursor: pointer;
+  }
+  .piros {
+    background-color: red;
+  }
+  .kek {
+    background-color: blue;
+  }
